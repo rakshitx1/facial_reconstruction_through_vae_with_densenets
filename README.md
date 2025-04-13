@@ -57,9 +57,9 @@ We used the CelebA dataset, which contains 202,599 face images with 40 binary at
 
 ## Authors
 
-- Rakshit Singhal - Indian Institute of Technology Jodhpur
-- Ram Prasad - Indian Institute of Technology Jodhpur
-- Palash Khatod - Indian Institute of Technology Jodhpur
+- Rakshit Singhal
+- Ram Prasad
+- Palash Khatod
 
 ## License
 
